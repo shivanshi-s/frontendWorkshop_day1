@@ -8,5 +8,6 @@ Demo under CSS -
 3. Changing Colors, font-size, font-family 
 4. CSS Box Model
 5. Float Property
+<hr>
 
-<br>
+Link to the Presentation - [PPT](/CSS3-%20Final%20.pdf)
